@@ -1,480 +1,1 @@
-11:19:54 - The script starting..
-11:19:54 - nipe is already downloaded!
-11:20:22 - The script starting..
-11:20:22 - nipe is already downloaded!
-11:20:28 - The script starting..
-11:20:28 - nipe is already downloaded!
-11:20:34 - The script starting..
-11:20:34 - nipe is already downloaded!
-11:20:55 - The script starting..
-11:20:55 - nipe is already downloaded!
-11:20:55 - Restarting Nipe!
-11:21:02 - Status of nipe: 
-[+] Status: true 
-[+] Ip: 94.102.51.15
-11:21:37 - The script starting..
-11:21:37 - nipe is already downloaded!
-11:21:37 - Restarting Nipe!
-11:21:44 - Status of nipe: 
-[+] Status: true 
-[+] Ip: 94.102.51.15
-11:22:17 - The script starting..
-11:22:17 - nipe is already downloaded!
-11:22:17 - Installing sshpass...
-11:22:17 - sshpass installed.
-11:22:17 - Installing nmap...
-11:22:17 - nmap installed.
-11:22:17 - Installing whois...
-11:22:18 - whois installed.
-11:22:18 - Restarting Nipe!
-11:22:25 - Status of nipe: 
-[+] Status: true 
-[+] Ip: 94.102.51.15
-11:23:24 - The script starting..
-11:23:24 - nipe is already downloaded!
-11:23:24 - Installing sshpass...
-11:23:24 - sshpass installed.
-11:23:24 - Installing nmap...
-11:23:25 - nmap installed.
-11:23:25 - Installing whois...
-11:23:25 - whois installed.
-11:23:25 - Restarting Nipe!
-11:23:32 - Status of nipe: 
-[+] Status: true 
-[+] Ip: 94.102.51.15
-11:24:34 - The script starting..
-11:24:34 - nipe is already downloaded!
-11:24:40 - The script starting..
-11:24:40 - nipe is already downloaded!
-11:24:40 - Restarting Nipe!
-11:24:49 - Status of nipe: 
-[+] Status: true 
-[+] Ip: 94.102.51.15
-11:25:10 - The script starting..
-11:25:10 - nipe is already downloaded!
-11:25:10 - Restarting Nipe!
-11:25:18 - Status of nipe: 
-[+] Status: true 
-[+] Ip: 94.102.51.15
-11:25:22 - The script starting..
-11:25:22 - nipe is already downloaded!
-11:25:22 - Restarting Nipe!
-11:25:30 - Status of nipe: 
-[+] Status: true 
-[+] Ip: 94.102.51.15
-11:25:31 - The script starting..
-11:25:31 - nipe is already downloaded!
-11:25:31 - Restarting Nipe!
-11:26:29 - The script starting..
-11:26:29 - nipe is already downloaded!
-11:26:29 - Restarting Nipe!
-11:26:36 - Status of nipe: 
-[+] Status: true 
-[+] Ip: 94.102.51.15
-11:27:06 - The script starting..
-11:27:06 - nipe is already downloaded!
-11:27:07 - Restarting Nipe!
-11:27:14 - Status of nipe: 
-[+] Status: true 
-[+] Ip: 94.102.51.15
-11:27:25 - The script starting..
-11:27:25 - nipe is already downloaded!
-11:27:25 - sshpass is Already Installed
-11:27:25 - nmap is Already Installed
-11:27:25 - whois is Already Installed
-11:27:25 - Restarting Nipe!
-11:27:33 - Status of nipe: 
-[+] Status: true 
-[+] Ip: 94.102.51.15
-11:30:14 - The script starting..
-11:30:14 - nipe is already downloaded!
-11:30:14 - sshpass is Already Installed
-11:30:14 - nmap is Already Installed
-11:30:14 - whois is Already Installed
-11:30:14 - Restarting Nipe!
-11:30:22 - Status of nipe: 
-[+] Status: true 
-[+] Ip: 94.102.51.15
-11:30:41 - The script starting..
-11:30:41 - nipe is already downloaded!
-11:30:41 - sshpass is Already Installed
-11:30:41 - nmap is Already Installed
-11:30:41 - whois is Already Installed
-11:30:41 - Restarting Nipe!
-11:30:49 - Status of nipe: 
-[+] Status: true 
-[+] Ip: 94.102.51.15
-11:32:35 - The script starting..
-11:32:35 - nipe is already downloaded!
-11:32:35 - sshpass is Already Installed
-11:32:35 - nmap is Already Installed
-11:32:35 - whois is Already Installed
-11:32:35 - Restarting Nipe!
-11:32:43 - Status of nipe: 
-[+] Status: true 
-[+] Ip: 192.42.116.217
-11:32:45 - Your IP getting anonymous!
-11:33:38 - The script starting..
-11:33:38 - nipe is already downloaded!
-11:33:38 - sshpass is Already Installed
-11:33:38 - nmap is Already Installed
-11:33:38 - whois is Already Installed
-11:33:38 - Restarting Nipe!
-11:33:48 - Status of nipe: 
-[+] Status: true 
-[+] Ip: 107.189.2.179
-11:33:49 - Your IP getting anonymous!
-11:33:49 - Your getting anonymous!, spoofed country: Luxembourg
-11:42:36 - The script starting..
-11:42:36 - nipe is already downloaded!
-11:42:36 - sshpass is Already Installed
-11:42:36 - nmap is Already Installed
-11:42:36 - whois is Already Installed
-11:42:36 - Restarting Nipe!
-11:42:43 - Status of nipe: 
-[+] Status: true 
-[+] Ip: 107.189.2.179
-11:42:45 - Your IP getting anonymous!
-11:42:53 - Target of scanning: 192.168.0.1
-11:42:58 - Remote machine IP: 192.168.
-11:43:00 - Remote machine username: kali
-11:43:01 - Remote machine password entered.
-11:43:56 - The script starting..
-11:43:56 - nipe is already downloaded!
-11:43:56 - sshpass is Already Installed
-11:43:56 - nmap is Already Installed
-11:43:56 - whois is Already Installed
-11:43:56 - Restarting Nipe!
-11:44:03 - Status of nipe: 
-[+] Status: true 
-[+] Ip: 194.164.122.21
-11:44:05 - Your IP getting anonymous!
-11:44:07 - Target of scanning: 12
-11:44:09 - Remote machine IP: 12
-11:44:09 - Remote machine username: 12
-11:44:10 - Remote machine password entered.
-11:44:34 - The script starting..
-11:44:34 - nipe is already downloaded!
-11:44:34 - sshpass is Already Installed
-11:44:34 - nmap is Already Installed
-11:44:34 - whois is Already Installed
-11:44:34 - Restarting Nipe!
-11:44:42 - Status of nipe: 
-[+] Status: true 
-[+] Ip: 185.220.101.6
-11:44:43 - Your IP getting anonymous!
-11:44:45 - Target of scanning: 1
-11:44:45 - Remote machine IP: 1
-11:44:46 - Remote machine username: 1
-11:44:47 - Remote machine password entered.
-11:45:00 - The script starting..
-11:45:00 - nipe is already downloaded!
-11:45:00 - sshpass is Already Installed
-11:45:00 - nmap is Already Installed
-11:45:00 - whois is Already Installed
-11:45:00 - Restarting Nipe!
-11:45:08 - Status of nipe: 
-[+] Status: true 
-[+] Ip: 193.218.118.182
-11:45:10 - Your IP getting anonymous!
-11:45:11 - Target of scanning: 1
-11:45:11 - Remote machine IP: 1
-11:45:12 - Remote machine username: 1
-11:45:12 - Remote machine password entered.
-11:47:16 - The script starting..
-11:47:16 - nipe is already downloaded!
-11:47:18 - sshpass is Already Installed
-11:47:18 - nmap is Already Installed
-11:47:18 - whois is Already Installed
-11:47:18 - Restarting Nipe!
-11:47:26 - Status of nipe: 
-[+] Status: true 
-[+] Ip: 193.218.118.182
-11:47:28 - Your IP getting anonymous!
-11:47:40 - Target of scanning: 1
-11:47:40 - Remote machine IP: 1
-11:47:40 - Remote machine username: 1
-11:47:41 - Remote machine password entered.
-12:44:14 - The script starting..
-12:44:14 - nipe is already downloaded!
-12:44:18 - The script starting..
-12:44:18 - nipe is already downloaded!
-12:44:18 - sshpass is Already Installed
-12:44:18 - nmap is Already Installed
-12:44:18 - whois is Already Installed
-12:44:18 - Restarting Nipe!
-12:44:28 - Status of nipe: 
-[+] Status: true 
-[+] Ip: 185.220.101.154
-12:44:29 - Your IP getting anonymous!
-12:44:32 - Target of scanning: 1
-12:44:33 - Remote machine IP: 1
-12:44:33 - Remote machine username: 1
-12:44:33 - Remote machine password entered.
-12:44:38 - The script starting..
-12:44:38 - nipe is already downloaded!
-12:44:38 - sshpass is Already Installed
-12:44:38 - nmap is Already Installed
-12:44:38 - whois is Already Installed
-12:44:38 - Restarting Nipe!
-12:44:45 - Status of nipe: 
-[+] Status: true 
-[+] Ip: 185.220.101.154
-12:44:47 - Your IP getting anonymous!
-12:44:58 - Target of scanning: 192.168.0.1
-12:45:02 - Remote machine IP: 192.168.0.1
-12:45:05 - Remote machine username: kali
-12:45:06 - Remote machine password entered.
-12:45:15 - The script starting..
-12:45:15 - nipe is already downloaded!
-12:45:15 - sshpass is Already Installed
-12:45:15 - nmap is Already Installed
-12:45:15 - whois is Already Installed
-12:45:15 - Restarting Nipe!
-12:45:23 - Status of nipe: 
-[+] Status: true 
-[+] Ip: 185.220.101.154
-12:45:25 - Your IP getting anonymous!
-12:45:29 - Target of scanning: 192.168.0.1
-12:45:32 - Remote machine IP: 192.168.0.1
-12:45:34 - Remote machine username: KALI
-12:45:35 - Remote machine password entered.
-12:45:56 - Remote Host IP: 
-12:46:31 - The script starting..
-12:46:31 - nipe is already downloaded!
-12:46:31 - sshpass is Already Installed
-12:46:31 - nmap is Already Installed
-12:46:31 - whois is Already Installed
-12:46:31 - Restarting Nipe!
-12:46:38 - Status of nipe: 
-[+] Status: true 
-[+] Ip: 185.220.101.154
-12:46:40 - Your IP getting anonymous!
-12:46:42 - Target of scanning: 1
-12:46:42 - Remote machine IP: 1
-12:46:43 - Remote machine username: 1
-12:46:43 - Remote machine password entered.
-12:46:43 - Remote Host IP: 
-12:46:43 - Remote Host country 
-12:46:43 - Remote machine uptime 
-12:46:43 - Performing whois scan on ...
-12:46:43 - Whois scan saved to /home//Desktop/whois.txt
-12:46:43 - Performing Nmap scan on ...
-12:46:43 - Nmap scan saved to /home//Desktop/nmap.txt
-12:46:43 - Script finished.
-12:47:08 - The script starting..
-12:47:08 - nipe is already downloaded!
-12:47:08 - sshpass is Already Installed
-12:47:08 - nmap is Already Installed
-12:47:08 - whois is Already Installed
-12:47:08 - Restarting Nipe!
-12:47:15 - Status of nipe: 
-[+] Status: true 
-[+] Ip: 185.220.101.154
-12:47:20 - Your IP getting anonymous!
-12:47:37 - Target of scanning: 192.168.189.134
-12:47:38 - Remote machine IP: 192.168.189.134
-12:47:40 - Remote machine username: kali
-12:47:42 - Remote machine password entered.
-12:47:42 - Remote Host IP: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>
-192.168.189.134
-12:47:42 - Remote Host country 
-12:47:42 - Remote machine uptime 
-12:47:42 - Performing whois scan on ...
-12:47:42 - Whois scan saved to /home//Desktop/Project/whois.txt
-12:47:42 - Performing Nmap scan on ...
-12:47:42 - Nmap scan saved to /home//Desktop/Project/nmap.txt
-12:47:42 - Script finished.
-12:48:32 - The script starting..
-12:48:32 - nipe is already downloaded!
-12:48:32 - sshpass is Already Installed
-12:48:32 - nmap is Already Installed
-12:48:33 - whois is Already Installed
-12:48:33 - Restarting Nipe!
-12:48:40 - Status of nipe: 
-[+] Status: true 
-[+] Ip: 185.220.101.154
-12:48:42 - Your IP getting anonymous!
-12:48:44 - Target of scanning: 192.168.189.134
-12:48:45 - Remote machine IP: 192.168.189.134
-12:48:46 - Remote machine username: kali
-12:48:47 - Remote machine password entered.
-12:48:48 - Remote Host IP: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>
-192.168.189.134
-12:48:48 - Remote Host country 
-12:48:48 - Remote machine uptime 
-12:48:48 - Performing whois scan on ...
-12:48:48 - Whois scan saved to /home//Desktop/Project/
-12:48:48 - Performing Nmap scan on ...
-12:48:48 - Nmap scan saved to /home//Desktop/Project/
-12:48:48 - Script finished.
-12:51:50 - The script starting..
-12:51:50 - nipe is already downloaded!
-12:51:50 - sshpass is Already Installed
-12:51:50 - nmap is Already Installed
-12:51:50 - whois is Already Installed
-12:51:50 - Restarting Nipe!
-12:51:59 - Status of nipe: 
-[+] Status: true 
-[+] Ip: 185.220.101.154
-12:52:01 - Your IP getting anonymous!
-12:52:05 - Target of scanning: 192.168.189.134
-12:52:07 - Remote machine IP: 192.168.189.134
-12:52:09 - Remote machine username: kali
-12:52:10 - Remote machine password entered.
-12:52:10 - Remote Host IP: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>
-192.168.189.134
-12:52:10 - Remote Host country 
-12:52:10 - Remote machine uptime 
-12:52:10 - Performing whois scan on 192.168.189.134...
-12:52:11 - Whois scan saved to /home/kali/Desktop/Project/
-12:52:11 - Performing Nmap scan on 192.168.189.134...
-12:52:11 - Nmap scan saved to /home/kali/Desktop/Project/
-12:52:11 - Script finished.
-12:52:59 - The script starting..
-12:52:59 - nipe is already downloaded!
-12:52:59 - sshpass is Already Installed
-12:52:59 - nmap is Already Installed
-12:52:59 - whois is Already Installed
-12:52:59 - Restarting Nipe!
-12:53:08 - Status of nipe: 
-[+] Status: true 
-[+] Ip: 185.220.101.154
-12:53:09 - Your IP getting anonymous!
-12:53:13 - Target of scanning: 192.168.189.134
-12:53:16 - Remote machine IP: 192.168.189.134
-12:53:18 - Remote machine username: kali
-12:53:19 - Remote machine password entered.
-12:53:19 - Remote Host IP: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>
-192.168.189.134
-12:53:19 - Remote Host country 
-12:53:19 - Remote machine uptime 
-12:53:19 - Performing whois scan on 192.168.189.134...
-12:53:20 - Whois scan saved to /home/kali/Desktop/Project/
-12:53:20 - Performing Nmap scan on 192.168.189.134...
-12:53:20 - Nmap scan saved to /home/kali/Desktop/Project/
-12:53:20 - Script finished.
-12:54:05 - The script starting..
-12:54:05 - nipe is already downloaded!
-12:54:05 - sshpass is Already Installed
-12:54:05 - nmap is Already Installed
-12:54:05 - whois is Already Installed
-12:54:05 - Restarting Nipe!
-12:54:13 - Status of nipe: 
-[+] Status: true 
-[+] Ip: 185.220.101.154
-12:54:14 - Your IP getting anonymous!
-12:54:15 - Target of scanning: 192.168.189.134
-12:54:18 - Remote machine IP: 192.168.189.134
-12:54:20 - Remote machine username: kali
-12:54:20 - Remote machine password entered.
-12:54:21 - Remote Host IP: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>
-192.168.189.134
-12:54:21 - Remote Host country 
-12:54:21 - Remote machine uptime 12:54:21 up 2:46,3
-12:54:21 - Performing whois scan on 192.168.189.134...
-12:54:22 - Whois scan saved to /home/kali/Desktop/Project/
-12:54:22 - Performing Nmap scan on 192.168.189.134...
-12:54:22 - Nmap scan saved to /home/kali/Desktop/Project/
-12:54:22 - Script finished.
-12:54:53 - The script starting..
-12:54:53 - nipe is already downloaded!
-12:54:53 - sshpass is Already Installed
-12:54:53 - nmap is Already Installed
-12:54:53 - whois is Already Installed
-12:54:53 - Restarting Nipe!
-12:55:01 - Status of nipe: 
-[+] Status: true 
-[+] Ip: 192.42.116.180
-12:55:02 - The script starting..
-12:55:02 - nipe is already downloaded!
-12:55:02 - sshpass is Already Installed
-12:55:02 - nmap is Already Installed
-12:55:02 - whois is Already Installed
-12:55:02 - Restarting Nipe!
-12:55:09 - Status of nipe: 
-[+] Status: true 
-[+] Ip: 192.42.116.180
-12:55:13 - The script starting..
-12:55:13 - nipe is already downloaded!
-12:55:13 - sshpass is Already Installed
-12:55:13 - nmap is Already Installed
-12:55:13 - whois is Already Installed
-12:55:13 - Restarting Nipe!
-12:55:20 - Status of nipe: 
-[+] Status: true 
-[+] Ip: 192.42.116.180
-12:55:22 - Your IP getting anonymous!
-12:56:32 - Target of scanning: 192.168.189.134
-12:56:32 - Remote machine IP: 192.168.189.134
-12:56:34 - Remote machine username: kali
-12:56:35 - Remote machine password entered.
-12:56:35 - Remote Host IP: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>
-192.168.189.134
-12:56:35 - Remote Host country 
-12:56:35 - Remote machine uptime 12:56:35 up 2:48,3
-12:56:35 - Performing whois scan on 192.168.189.134...
-12:56:36 - Whois scan saved to /home/kali/Desktop/Project/
-12:56:36 - Performing Nmap scan on 192.168.189.134...
-12:56:36 - Nmap scan saved to /home/kali/Desktop/Project/
-12:56:36 - Script finished.
-12:57:27 - The script starting..
-12:57:27 - nipe is already downloaded!
-12:57:29 - sshpass is Already Installed
-12:57:31 - nmap is Already Installed
-12:57:33 - whois is Already Installed
-12:57:35 - Restarting Nipe!
-12:57:43 - Status of nipe: 
-[+] Status: true 
-[+] Ip: 192.42.116.180
-12:57:45 - Your IP getting anonymous!
-12:57:51 - Target of scanning: 192.168.189.134
-12:57:55 - Remote machine IP: 192.168.189.134
-12:57:58 - Remote machine username: kali
-12:58:00 - Remote machine password entered.
-12:58:03 - Remote Host IP: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>
-192.168.189.134
-12:58:05 - Remote Host country 
-12:58:07 - Remote machine uptime 12:58:07 up 2:50,3
-12:58:09 - Performing whois scan on 192.168.189.134...
-12:58:12 - Whois scan saved to /home/kali/Desktop/Project/
-12:58:14 - Performing Nmap scan on 192.168.189.134...
-12:58:16 - Nmap scan saved to /home/kali/Desktop/Project/
-12:58:18 - Script finished.
-07:26:04 - The script starting..
-07:26:04 - nipe is already downloaded!
-07:26:06 - sshpass is Already Installed
-07:26:08 - nmap is Already Installed
-07:26:10 - whois is Already Installed
-07:26:12 - Restarting Nipe!
-07:26:19 - Status of nipe: 
-[+] Status: true 
-[+] Ip: 185.220.101.6
-07:26:22 - Your IP getting anonymous!
-07:26:30 - Target of scanning: 1.1.1.1
-07:26:34 - Remote machine IP: 1.1.1.1
-07:26:38 - Remote machine username: kali
-07:26:40 - Remote machine password entered.
-07:26:59 - The script starting..
-07:26:59 - nipe is already downloaded!
-07:27:01 - sshpass is Already Installed
-07:27:03 - nmap is Already Installed
-07:27:05 - whois is Already Installed
-07:27:07 - Restarting Nipe!
-07:27:15 - Status of nipe: 
-[+] Status: true 
-[+] Ip: 77.105.146.42
-07:27:18 - Your IP getting anonymous!
-07:27:25 - Target of scanning: 192.168.189.134
-07:27:29 - Remote machine IP: 192.168.189.134
-07:27:32 - Remote machine username: kali
-07:27:36 - Remote machine password entered.
-07:27:38 - Remote Host IP: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>
-192.168.189.134
-07:27:40 - Remote Host country 
-07:27:42 - Remote machine uptime 07:27:42 up 22:19,3
-07:27:44 - Performing whois scan on 192.168.189.134...
-07:27:47 - Whois scan saved to /home/kali/Desktop/Project/
-07:27:49 - Performing Nmap scan on 192.168.189.134...
-07:27:51 - Nmap scan saved to /home/kali/Desktop/Project/
-07:27:53 - Script finished.
+
